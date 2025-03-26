@@ -177,6 +177,7 @@ anova(mod1_default)
 ```
 #Interpretation
 Although the main time effect (fdap) and the potassium-nitrogen interaction were both significant in the default model, the general model probably had slightly higher significance levels, especially for complex interactions, because it better explained the correlation in repeated measures. For instance, the three-way interaction (krate_kgha:nrate_kgha:fdap) was only marginally significant (p = 0.0926) in the default model but may be more significant in the general model.
+
 # Submitting your work  
 Once you have developed all the code and answers, make sure to Render this quarto file.  
 
